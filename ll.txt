@@ -1,0 +1,8 @@
+total 4656
+drwx------    3 u0_a242  u0_a242       4096 Aug  5 22:43 .
+drwx------    4 u0_a242  u0_a242       4096 Aug  5 22:42 ..
+drwx------    7 u0_a242  u0_a242       4096 Aug  5 22:42 .git
+-rw-------    1 u0_a242  u0_a242          6 Aug  5 22:42 README.md
+-rw-------    1 u0_a242  u0_a242    4746298 Aug  5 22:42 introductio to github.pdf
+-rw-------    1 u0_a242  u0_a242          0 Aug  5 22:43 ll.txt
+-rw-------    1 u0_a242  u0_a242        243 Aug  5 22:42 ls.txt

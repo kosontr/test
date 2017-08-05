@@ -1,0 +1,6 @@
+total 5
+drwxr-xr-x 1 Koson 197608 0 Aug  5 21:37 ./
+drwxr-xr-x 1 Koson 197608 0 Aug  5 21:36 ../
+drwxr-xr-x 1 Koson 197608 0 Aug  5 21:37 .git/
+-rw-r--r-- 1 Koson 197608 0 Aug  5 21:37 ls.txt
+-rw-r--r-- 1 Koson 197608 6 Aug  5 21:36 README.md
